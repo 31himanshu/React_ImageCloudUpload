@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color:cyan;
+  margin-left:auto;
+  margin-right: auto;
+}
+button{
+  background-color:black;
+  color:white;
+font-size:20px;
+padding:10px 30px;
+border-radius: 5px;
+margin:10px 0px;
+cursor :pointer;
+font-family: cursive;
+}
+.header{
+  background-color: orchid;
+  text-align:center;
+  
+font-family:cursive;
+}
